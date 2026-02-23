@@ -46,8 +46,8 @@ const NavBar = () => {
                   <span className="badge">New</span>
                 </Link>
               </li>
-              <li><Link to={"/Connections"}>Connections</Link> </li>
-              <li><Link to={"/Requests"}>Requests</Link> </li>
+              <li><Link to={"/connections"}>Connections</Link> </li>
+              <li><Link to={"/requests"}>Requests</Link> </li>
               <li><a onClick={handleLogOut}>Logout</a></li>
             </ul>
             </div>
