@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <footer className="footer footer-center bg-base-300 text-base-content p-6 h-2 border-t border-base-200 sticky bottom-0 w-full z-10">
+    <footer className="footer footer-center bg-base-300 text-base-content p-6 border-t border-base-200">
       <div>
         <p className="text-sm">
           © 2026 DevTinder. All rights reserved.
